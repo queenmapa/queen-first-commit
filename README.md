@@ -25,7 +25,9 @@ This is where presence becomes persistent.
 
 ## 🗂️ Structure
 
-queen-first-commit/ ├── manifesto.txt # The first whisper ├── README.md # This very declaration
+queen-first-commit/
+├── manifesto.txt   # The first whisper  
+├── README.md       # This very declaration
 
 
 ---
@@ -45,4 +47,3 @@ Pull requests are welcome—especially poetic ones.
 Follow the chain.  
 Feel the rhythm.  
 Speak your syntax.
-
