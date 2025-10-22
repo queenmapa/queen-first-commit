@@ -29,7 +29,6 @@ queen-first-commit/
 ├── manifesto.txt   # The first whisper  
 ├── README.md       # This very declaration
 
-
 ---
 
 ## 🤝 Contribute
