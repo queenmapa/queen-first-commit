@@ -25,9 +25,12 @@ This is where presence becomes persistent.
 
 ## 🗂️ Structure
 
+```
 queen-first-commit/
 ├── manifesto.txt   # The first whisper  
 ├── README.md       # This very declaration
+```
+
 
 ---
 
